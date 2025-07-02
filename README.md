@@ -1,0 +1,1 @@
+Simon Says (Digital Version) is an interactive game where players follow on-screen commands,like in this game you have to remember colors that shows by the computer then remember it and then have to click on the colors in a partten wise.once you click on a wrong button the game will be over and you can start over again after that.
