@@ -54,7 +54,6 @@ function cheak(idx){
     }
     else{
         h2.innerText=`game over,your score is ${level}. press any key to start again`;
-        updateScore(level);
         document.querySelector("body").style.backgroundColor="red";
          setTimeout(function(){
             document.querySelector("body").style.backgroundColor="white";
